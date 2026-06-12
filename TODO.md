@@ -1,0 +1,2 @@
+# Task Progress: Remove project AI / Custom Icon (Replace with Default/None)\n\n## Steps:\n- [x] 1. Analyze project files and confirm icon source (index.html using placeholder.svg)\n- [x] 2. Get user confirmation on plan\n- [x] 3. Edit instant-connect-chat/index.html to remove icon links and image meta tags\n- [ ] 4. Test by running `cd instant-connect-chat && npm run dev` (refresh browser tab)\n\n**Next step:** Test the changes
+
